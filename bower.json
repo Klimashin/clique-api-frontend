@@ -1,0 +1,21 @@
+{
+  "name": "clique-frontend-client",
+  "homepage": "https://github.com/Klimashin/clique-api-frontend",
+  "authors": [
+    "Vasiliy K. <klimashin.v@gmail.com>"
+  ],
+  "description": "Client side lib to work with clique platform",
+  "main": "client.js",
+  "keywords": [
+    "api",
+    "clique"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
